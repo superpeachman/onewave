@@ -1,0 +1,1 @@
+web: DEBUG=onewave ./bin/www
