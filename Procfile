@@ -1,1 +1,1 @@
-web: DEBUG=onewave ./bin/www
+web: node app.js
